@@ -1,0 +1,20 @@
+E:\API Project\API Project\API Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\API Project\API Project\API Project\bin\Debug\netcoreapp3.1\appsettings.json
+E:\API Project\API Project\API Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\API Project\API Project\API Project\bin\Debug\netcoreapp3.1\API Project.exe
+E:\API Project\API Project\API Project\bin\Debug\netcoreapp3.1\API Project.deps.json
+E:\API Project\API Project\API Project\bin\Debug\netcoreapp3.1\API Project.runtimeconfig.json
+E:\API Project\API Project\API Project\bin\Debug\netcoreapp3.1\API Project.runtimeconfig.dev.json
+E:\API Project\API Project\API Project\bin\Debug\netcoreapp3.1\API Project.dll
+E:\API Project\API Project\API Project\bin\Debug\netcoreapp3.1\API Project.pdb
+E:\API Project\API Project\API Project\obj\Debug\netcoreapp3.1\API Project.AssemblyInfoInputs.cache
+E:\API Project\API Project\API Project\obj\Debug\netcoreapp3.1\API Project.AssemblyInfo.cs
+E:\API Project\API Project\API Project\obj\Debug\netcoreapp3.1\API Project.csproj.CoreCompileInputs.cache
+E:\API Project\API Project\API Project\obj\Debug\netcoreapp3.1\API Project.MvcApplicationPartsAssemblyInfo.cache
+E:\API Project\API Project\API Project\obj\Debug\netcoreapp3.1\API Project.RazorTargetAssemblyInfo.cache
+E:\API Project\API Project\API Project\obj\Debug\netcoreapp3.1\staticwebassets\API Project.StaticWebAssets.Manifest.cache
+E:\API Project\API Project\API Project\obj\Debug\netcoreapp3.1\staticwebassets\API Project.StaticWebAssets.xml
+E:\API Project\API Project\API Project\obj\Debug\netcoreapp3.1\API Project.dll
+E:\API Project\API Project\API Project\obj\Debug\netcoreapp3.1\API Project.pdb
+E:\API Project\API Project\API Project\obj\Debug\netcoreapp3.1\API Project.genruntimeconfig.cache
+E:\API Project\API Project\API Project\obj\Debug\netcoreapp3.1\API Project.csprojAssemblyReference.cache
